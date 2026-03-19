@@ -13,7 +13,6 @@ It helps to manage student records efficiently such as adding, viewing, updating
 
 ## 🛠️ Technologies Used
 - C++
-- File Handling
 - OOP Concepts
 
 ## ▶️ How to Run
